@@ -1,0 +1,5 @@
+[
+    { "keys": ["f1"], "command": "run_quick_simulator"},	// 打开run_quick_simulator
+    { "keys": ["f2"], "command": "open_xcode_project"}, 	// 打开项目的的xcodeproject
+    { "keys": ["f3"], "command": "open_simulator_project"}, // 打开simulator xcodeProject
+]
